@@ -20,8 +20,8 @@ Step 4: End the program
 ```
 
 Program to find the solution of a matrix using Gaussian Elimination.
-Developed by: Ajay Karthick R
-RegisterNumber:212225230007
+Developed by: SIVANTH T
+RegisterNumber:212225240150
 import os
 os.environ["OPENBLAS_NUM_THREADS"]="1"
 import numpy as np
